@@ -1,4 +1,4 @@
-### Hi there 👋, Hola mundo!!! Mi nombre es Marco Carballo
+###Hola mundo!!! Mi nombre es Marco Carballo
 #### Soy un developer web Full Stack
 ![Banner para github](https://user-images.githubusercontent.com/78840246/140478474-03a75a2e-ae8d-4813-b391-e6e2ea9affef.png)
 
